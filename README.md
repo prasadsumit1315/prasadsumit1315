@@ -20,5 +20,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumit1315-as&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
