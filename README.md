@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Prasad</h1>
 <h3 align="center">A passionate Full Stack Developer India</h3>
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/76eb4209-e8b3-4b0e-941d-d4952922fb9f" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit1315-as&label=Profile%20views&color=0e75b6&style=flat" alt="sumit1315-as" /> </p>
 
