@@ -7,7 +7,7 @@
    Passionate Full Stack Developer from India
 </h3>
 <br>
-  <img alt="anim" align="center" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+  <img alt="anim" align="right"width="600px" height="320px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit1315-as&label=Profile%20views&color=0e75b6&style=flat" alt="sumit1315-as" /> </p>
 
@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **sumitprasad1315@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<br><br><br>
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitprasad1315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitprasad1315@gmail.com) 
